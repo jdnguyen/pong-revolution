@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/95/trunk/pongRevolution/src/pongRevolution
+END
+ServerPaddle.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/91/trunk/pongRevolution/src/pongRevolution/ServerPaddle.java
+END
+pongRev.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/pongRevolution/src/pongRevolution/pongRev.java
+END
+ServerBall.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/93/trunk/pongRevolution/src/pongRevolution/ServerBall.java
+END
+Arena.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14/trunk/pongRevolution/src/pongRevolution/Arena.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/trunk/pongRevolution/src/pongRevolution/Location.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/93/trunk/pongRevolution/src/pongRevolution/Game.java
+END
+PongServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/94/trunk/pongRevolution/src/pongRevolution/PongServer.java
+END
+GameSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/95/trunk/pongRevolution/src/pongRevolution/GameSettings.java
+END
